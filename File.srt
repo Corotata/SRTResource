@@ -1,0 +1,91 @@
+2
+00:00:00,334 --> 00:00:10,344
+♪ ♪
+
+
+3
+00:00:18,585 --> 00:00:23,056 
+Susan Prescott: Welcome to the WWDC 24Platforms State of the Union!
+
+
+4
+00:00:23,090 --> 00:00:28,195 
+WWDC is always an exciting time of year when we dig into the technical details
+
+
+5
+00:00:28,228 --> 00:00:30,831 
+of what we've been working on,share how it works,
+
+
+6
+00:00:30,864 --> 00:00:35,202 
+and help you understandwhat's possible in your apps and games.
+
+
+7
+00:00:35,235 --> 00:00:37,538 
+Before we get started,we want to take a moment
+
+
+8
+00:00:37,571 --> 00:00:40,707 
+to recognize your hard work and dedication--
+
+
+9
+00:00:40,741 --> 00:00:44,211 
+you are the creators, designers,and developers
+
+
+10
+00:00:44,244 --> 00:00:48,115 
+of the amazing apps and games that people use every day
+
+
+11
+00:00:48,148 --> 00:00:52,252 
+to learn, play, work,and change the world.
+
+
+12
+00:00:52,286 --> 00:00:53,487
+Thank you!
+
+
+13
+00:00:53,520 --> 00:00:56,190 
+We love connecting with you around the world
+
+
+14
+00:00:56,223 --> 00:00:59,693 
+at Apple Developer Centers,Developer Academies,
+
+
+15
+00:00:59,726 --> 00:01:01,495
+and Apple Vision Pro labs
+
+
+16
+00:01:01,528 --> 00:01:05,199 
+where you created the first spatial computing apps and games!
+
+
+17
+00:01:05,232 --> 00:01:08,368 
+And the next generation of developers blew us away
+
+
+18
+00:01:08,402 --> 00:01:12,840 
+in the Swift Student Challenge with clever, creative playgrounds
+
+
+19
+00:01:12,873 --> 00:01:17,444 
+that tackled topics from social impact to security.
+
+
+
